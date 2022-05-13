@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **"how to create a GitHub profile, Terraform(Infrastructure As a code)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajiarjunan27](https://github.com/Rajiarjunan27)
+- 👨‍💻 All of my upcoming projects are available at [https://github.com/Rajiarjunan27](https://github.com/Rajiarjunan27)
 
 - 📫 How to reach me **rajiarjunan949@gmail.com**
 
