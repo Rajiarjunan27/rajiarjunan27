@@ -9,13 +9,14 @@
 
 - 🌱 I’m currently learning **"how to create a GitHub profile, Terraform(Infrastructure As a code)**
 
-- 👨‍💻 All of my upcoming projects are available at [https://github.com/Rajiarjunan27](https://github.com/Rajiarjunan27)
+- 👨‍💻 All of my projects are available at [https://github.com/Rajiarjunan27](https://github.com/Rajiarjunan27)
+
+- 💬 Ask me about **Love to learn new things**
 
 - 📫 How to reach me **rajiarjunan949@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/promise of goodness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="promise of goodness" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/try with raji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="try with raji" height="30" width="40" /></a>
 </p>
 
