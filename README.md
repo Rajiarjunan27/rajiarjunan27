@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajiarjunan27" alt="rajiarjunan27" /></a> </p>
 
-- 🔭 I’m Previously working on **IoT related project as cloud architect as well as Sql developer**
+- 🔭 I’m Previously working on **IoT related project as a cloud architect as well as Sql developer**
 
 - 🌱 I’m currently learning **"how to create a GitHub profile, Terraform(Infrastructure As a code)**
 
